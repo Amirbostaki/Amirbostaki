@@ -42,8 +42,8 @@ appears on your GitHub profile.
 | Project | Tech | What I did |
 |---------|------|------------|
 | **[SoulConsola](https://www.soulconsola.com)** | Next.js · Supabase · n8n | Built & deployed entire self‑improvement platform, integrated LLMs for personalized insights, automated onboarding emails. :contentReference[oaicite:11]{index=11} |
-| Telegram Bot (Fitness Gym) | Bubble.io · Zapier | Unified data from 3 labs & automated membership/schedule workflows, cutting manual work to minutes. :contentReference[oaicite:12]{index=12} |
-| Internal Lab Data Tool | Node.js · n8n · Supabase | Streamlined data flow and payment/booking via Telegram bot integration. :contentReference[oaicite:13]{index=13} |
+| Telegram Bot (Fitness Gym) | Bubble.io · Zapier | Unified data from 3 labs & automated membership/schedule workflows, cutting manual work to minutes. |
+| Internal Lab Data Tool | Node.js · n8n · Supabase | Streamlined data flow and payment/booking via Telegram bot integration.  |
 
 
 ### 🎯  2025 Goals
