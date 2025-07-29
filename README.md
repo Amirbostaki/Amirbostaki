@@ -45,11 +45,6 @@ appears on your GitHub profile.
 | Telegram Bot (Fitness Gym) | Bubble.io · Zapier | Unified data from 3 labs & automated membership/schedule workflows, cutting manual work to minutes. :contentReference[oaicite:12]{index=12} |
 | Internal Lab Data Tool | Node.js · n8n · Supabase | Streamlined data flow and payment/booking via Telegram bot integration. :contentReference[oaicite:13]{index=13} |
 
-### 📊  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirbostaki&show_icons=true&theme=transparent" alt="Amir's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amirbostaki&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="Amir's GitHub streak" />
-</p>
 
 ### 🎯  2025 Goals
 - Contribute to an open‑source Next.js project  
