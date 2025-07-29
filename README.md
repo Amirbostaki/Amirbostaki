@@ -23,7 +23,7 @@ appears on your GitHub profile.
 ### 🌱  About Me
 - 🚀&nbsp;Junior full‑stack engineer building end‑to‑end products with Next.js, React, Node.js & TypeScript. 
 - 🧬 Former molecular‑biology researcher who brings scientific curiosity and data‑driven thinking to code.  
-- 🤖 Automation enthusiast—love wiring workflows with n8n, Make & Zapier to save  hours. 
+- 🤖 Automation enthusiast, love wiring workflows with n8n, Make & Zapier to save  hours. 
 - 🎓 Finishing an M.Sc. in Molecular Biology at the University of Padova (based in Vicenza, Italy).  
 - 🏋️‍♂️ When away from the keyboard you’ll find me lifting weights, reading philosophy or watching Anime.
 
