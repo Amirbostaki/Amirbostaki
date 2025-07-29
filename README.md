@@ -21,10 +21,10 @@ appears on your GitHub profile.
 ---
 
 ### 🌱  About Me
-- 🚀&nbsp;Junior full‑stack engineer building end‑to‑end products with Next.js, React, Node.js & TypeScript. :contentReference[oaicite:7]{index=7}  
-- 🧬 Former molecular‑biology researcher who brings scientific curiosity and data‑driven thinking to code. :contentReference[oaicite:8]{index=8}  
-- 🤖 Automation enthusiast—love wiring workflows with n8n, Make & Zapier to save  hours. :contentReference[oaicite:9]{index=9}  
-- 🎓 Finishing an M.Sc. in Molecular Biology at the University of Padova (based in Vicenza, Italy). :contentReference[oaicite:10]{index=10}  
+- 🚀&nbsp;Junior full‑stack engineer building end‑to‑end products with Next.js, React, Node.js & TypeScript. 
+- 🧬 Former molecular‑biology researcher who brings scientific curiosity and data‑driven thinking to code.  
+- 🤖 Automation enthusiast—love wiring workflows with n8n, Make & Zapier to save  hours. 
+- 🎓 Finishing an M.Sc. in Molecular Biology at the University of Padova (based in Vicenza, Italy).  
 - 🏋️‍♂️ When away from the keyboard you’ll find me lifting weights, reading philosophy or watching Anime.
 
 ### 🛠  Tech Stack
@@ -41,7 +41,7 @@ appears on your GitHub profile.
 ### ⚡  Recent Projects
 | Project | Tech | What I did |
 |---------|------|------------|
-| **[SoulConsola](https://www.soulconsola.com)** | Next.js · Supabase · n8n | Built & deployed entire self‑improvement platform, integrated LLMs for personalized insights, automated onboarding emails. :contentReference[oaicite:11]{index=11} |
+| **[SoulConsola](https://www.soulconsola.com)** | Next.js · Supabase · n8n | Built & deployed entire self‑improvement platform, integrated LLMs for personalized insights, automated onboarding emails.  |
 | Telegram Bot (Fitness Gym) | Bubble.io · Zapier | Unified data from 3 labs & automated membership/schedule workflows, cutting manual work to minutes. |
 | Internal Lab Data Tool | Node.js · n8n · Supabase | Streamlined data flow and payment/booking via Telegram bot integration.  |
 
