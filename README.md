@@ -4,7 +4,12 @@ appears on your GitHub profile.
 -->
 
 <h1 align="center">Hi&nbsp;there&nbsp;👋&nbsp;I’m Amir</h1>
+
 <h3 align="center">Full‑stack Web Developer&nbsp;| Molecular Biology M.Sc.</h3>
+
+<p align="center">
+  🌐 <a href="https://amirbostaki.vercel.app/">amirbostaki.vercel.app</a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amir-abbas-bostaki">
@@ -19,13 +24,6 @@ appears on your GitHub profile.
 </p>
 
 ---
-
-### 🌱  About Me
-- 🚀&nbsp;Junior full‑stack engineer building end‑to‑end products with Next.js, React, Node.js & TypeScript. 
-- 🧬 Former molecular‑biology researcher who brings scientific curiosity and data‑driven thinking to code.  
-- 🤖 Automation enthusiast, love wiring workflows with n8n, Make & Zapier to save  hours. 
-- 🎓 Finishing an M.Sc. in Molecular Biology at the University of Padova (based in Vicenza, Italy).  
-- 🏋️‍♂️ When away from the keyboard you’ll find me lifting weights, reading philosophy or watching Anime.
 
 ### 🛠  Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
@@ -42,7 +40,7 @@ appears on your GitHub profile.
 | Project | Tech | What I did |
 |---------|------|------------|
 | **[SoulConsola](https://www.soulconsola.com)** | Next.js · Supabase · n8n | Built & deployed entire self-improvement platform, integrated LLMs for personalized insights, automated onboarding emails.  |
-| **[Student Performance Tracker](https://amirbostaki.vercel.app/)** | Next.js · TypeScript · Supabase · AWS S3 | Designed & deployed a tool for teachers to record/analyze grades, implemented Jalali calendar support, automated DB backups with AWS S3, building custom charts for data visualization. |
+| Student Performance Tracker | Next.js · TypeScript · Supabase · AWS S3 | Designed & deployed a tool for teachers to record/analyze grades, implemented Jalali calendar support, automated DB backups with AWS S3, building custom charts for data visualization. |
 |  Internal Lab Data Tool | Bubble.io · Zapier | Unified data from 3 labs & automated membership/schedule workflows, cutting manual work to minutes. |
 | Telegram Bot | Node.js ·Grafana, Prometheus · Supabase | Telegram bot to manage and monitor my VPS.  |
 
