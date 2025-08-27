@@ -41,15 +41,15 @@ appears on your GitHub profile.
 ### ⚡  Recent Projects
 | Project | Tech | What I did |
 |---------|------|------------|
-| **[SoulConsola](https://www.soulconsola.com)** | Next.js · Supabase · n8n | Built & deployed entire self‑improvement platform, integrated LLMs for personalized insights, automated onboarding emails.  |
-| Telegram Bot (Fitness Gym) | Bubble.io · Zapier | Unified data from 3 labs & automated membership/schedule workflows, cutting manual work to minutes. |
-| Internal Lab Data Tool | Node.js · n8n · Supabase | Streamlined data flow and payment/booking via Telegram bot integration.  |
+| **[SoulConsola](https://www.soulconsola.com)** | Next.js · Supabase · n8n | Built & deployed entire self-improvement platform, integrated LLMs for personalized insights, automated onboarding emails.  |
+| **[Student Performance Tracker](https://amirbostaki.vercel.app/)** | Next.js · TypeScript · Supabase · AWS S3 | Designed & deployed a tool for teachers to record/analyze grades, implemented Jalali calendar support, automated DB backups with AWS S3, building custom charts for data visualization. |
+|  Internal Lab Data Tool | Bubble.io · Zapier | Unified data from 3 labs & automated membership/schedule workflows, cutting manual work to minutes. |
+| Telegram Bot | Node.js ·Grafana, Prometheus · Supabase | Telegram bot to manage and monitor my VPS.  |
 
 
-### 🎯  2025 Goals
-- Contribute to an open‑source Next.js project  
+### 🎯  2025 Goals 
 - Release SoulConsola regular updates   
-- Learn Rust for high‑performance backend services  
+- I missed working in a team, so I definitely want to work on a team project.
 
 
 ### 🤝  Let’s Connect
@@ -62,16 +62,4 @@ Feel free to reach out with ideas, collaboration requests or just to chat tech &
 
 
 <!--
-**Amirbostaki/Amirbostaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
