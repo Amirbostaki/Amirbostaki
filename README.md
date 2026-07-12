@@ -23,8 +23,6 @@ appears on your GitHub profile.
   </a>
 </p>
 
-
-### 🛠  Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
 ![React](https://img.shields.io/badge/React-61dafb?logo=react&logoColor=black)
