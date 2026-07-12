@@ -23,7 +23,6 @@ appears on your GitHub profile.
   </a>
 </p>
 
----
 
 ### 🛠  Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
@@ -35,9 +34,8 @@ appears on your GitHub profile.
 ![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white)
 ![AWS SES](https://img.shields.io/badge/AWS_SES-ff9900?logo=amazon-aws&logoColor=white)
 
----
 
-> “The impediment to action advances action. What stands in the way becomes the way.” — *Marcus Aurelius*
+> “The impediment to action advances action. What stands in the way becomes the way.”  *Marcus Aurelius*
 
 
 <!--
